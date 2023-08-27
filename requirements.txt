@@ -1,0 +1,4 @@
+transformers
+langchain 
+auto-gptq --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/
+gradio
