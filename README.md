@@ -24,13 +24,11 @@ Inferencing this model locally requires a GPU with atleast 8GB of GPU RAM.
 #### Instructions:
 
 1. Clone this repository to your local machine.
-
 ```bash
 git clone https://github.com/Sarthakrw/web-query.git
 ```
 
 2. Navigate to project directory.
-    
 ```bash
 cd web-query
 ```
