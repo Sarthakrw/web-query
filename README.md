@@ -51,13 +51,7 @@ The version of this project hosted on huggingface spaces uses the [TheBloke/Llam
 
 Unfortunately this model has incredibly slow inference speed(~20-30min per query) and is not recommended for use. But the output quality is still decent.
 
-<br>
-
 #### check it out [here](https://huggingface.co/spaces/sarthakrw/web-query)
-
-<br>
-
-
 
 ## License
 
