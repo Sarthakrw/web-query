@@ -1,7 +1,6 @@
 from langchain.llms import HuggingFacePipeline
 from langchain.chains import LLMChain
 from langchain import PromptTemplate
-from
 
 llm = HuggingFacePipeline(pipeline=pipe)
 
