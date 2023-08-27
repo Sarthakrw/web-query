@@ -9,7 +9,7 @@ Specifically, this project uses the [TheBloke/Llama-2-7b-Chat-GPTQ](https://hugg
 ## Usage
 
 ### 1. Colab Notebook (recommended)
-<br>
+
 This is the simplest and easiest way to run this project.
 
 1. Locate the `web_query_demo.ipynb` in this repo
