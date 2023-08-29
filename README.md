@@ -1,5 +1,5 @@
 # WebQuery
-WebQuery is a LLM(Large Language Model) application powered by Meta's LLaMA-2 model used to ask questions related to the content of any public webpage present on the internet.
+WebQuery is an LLM(Large Language Model) based application powered by Meta's LLaMA-2 model used to ask questions related to the content of any public webpage present on the internet.
 
 Specifically, this project uses the [TheBloke/Llama-2-7b-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ) quantized model from the huggingface hub for better performance on systems with limited GPU RAM and thus also providing faster inferencing.
 
